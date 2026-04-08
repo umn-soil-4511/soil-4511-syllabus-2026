@@ -1,0 +1,43 @@
+project:
+  type: book
+  # change output-dir to "docs" to publish to gh pages
+  output-dir: docs
+
+book:
+  title: "Field Study of Soils (SOIL 4511) Syllabus - Summer 2025"
+  author: "Nic Jelinski"
+  date: "07APRMAY2026"
+  cover-image: "soil-4511.png"
+  number: "1.0"
+  #navbar: 
+    #right: 
+      #- icon: cc-circle
+      #- href: https://creativecommons.org/licenses/by/4.0/
+      #- aria-label: Creative Commons
+  
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - logistics.qmd
+    - expectations.qmd
+    # - course-materials.qmd
+    - packing-lists.qmd
+    - hygiene.qmd
+    - safety-plan.qmd
+    - fine-print.qmd
+    - class-schedule.qmd
+    # - food.qmd
+    # - faqs.qmd
+    # - further-opportunities.qmd
+    # - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
