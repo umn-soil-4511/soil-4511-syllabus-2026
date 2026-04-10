@@ -1,14 +1,14 @@
 # Lodging, Food, and Packing Lists
 
-## Week 1 (18MAY-23MAY)
+## Week 1 (17MAY-22MAY)
 
 ### Overview
 
-During week 1, we will be camping at the Jay Cooke State Park Group Camp and traveling to field sites each day. On Sunday, May 18th, we will be meeting at noon (12pm) in front of Borlaug Hall to load out vehicles and depart for Jay Cooke State Park. On Monday, May 19th, we will have some classroom time as we go over soil morphology, soil-landscape relationships, and soil interpretations at facilities on the Fond du Lac Tribal College campus. Tuesday-Thursday we will be in the field all day, every day regardless of weather. On Friday we will be packing up camp and making one field stop on our way back to campus.
+During week 1, we will be camping at the Moose Lake State Park Group Camp and traveling to field sites each day. On Sunday, May 17th, we will be meeting at noon (12pm) in front of Borlaug Hall to load out vehicles and depart for Moose Lake State Park. On Monday, May 18th, we will have some classroom time as we go over soil morphology, soil-landscape relationships, and soil interpretations at facilities on the Fond du Lac Tribal College campus. Tuesday-Thursday we will be in the field all day, every day regardless of weather. On Friday we will be packing up camp and making one field stop on our way back to campus.
 
 ### Lodging
 
-We will be staying at the Jay Cooke State Park Group Camp for 5 nights (Sunday, Monday, Tuesday, Wednesday, Thursday). Students will be staying in tents and will need (at a minimum) a tent, sleeping bag, and sleeping mat, in addition to everything else required for a week-long field course. See detailed packing list below - there are no space restrictions, so please feel free to pack what you need.
+We will be staying at the Moose Lake State Park Group Camp for 5 nights (Sunday, Monday, Tuesday, Wednesday, Thursday). Students will be staying in tents and will need (at a minimum) a tent, sleeping bag, and sleeping mat, in addition to everything else required for a week-long field course. See detailed packing list below - there are no space restrictions, so please feel free to pack what you need.
 
 #### Tents
 
@@ -53,15 +53,15 @@ kbl(packing.list, format = "html") %>%
   #scroll_box(width = "100%", height = "1000px")
 ```
 
-## Week 2 (26MAY-30MAY)
+## Week 2 (25MAY-29MAY)
 
 ### Overview
 
-During week 2, we will be staying in cabins at Itasca Biological Station. On Friday we will be packing up and returning to campus.
+During week 2, we **may** either be staying at the Bemidji State Park group camp (primary plan) OR be staying in cabins at Itasca Biological Station. On Friday we will be packing up and returning to campus.
 
 ### Lodging
 
-We will be staying at Itasca Biological Station for 4 nights (Monday, Tuesday, Wednesday, Thursday). Students will be staying in bunkhouses. Mattresses will be provided but you will need a sleeping bag and pillow, in addition to everything else required for a week-long field course. You can use the same packing list as Week 1, **but you will not need a tent or sleeping mat.**
+We will be staying at either Bemidji State Park group camp or Itasca Biological Station for 4 nights (Monday, Tuesday, Wednesday, Thursday). If we stay at Itasca, students will be staying in bunkhouses. Mattresses will be provided but you will need a sleeping bag and pillow, in addition to everything else required for a week-long field course. You can use the same packing list as Week 1, **but you will not need a tent or sleeping mat.**. If we are staying at Moose Lake State Park group camp, you will need all of the same equipment as you had for Week 1.
 
 ### Food
 
