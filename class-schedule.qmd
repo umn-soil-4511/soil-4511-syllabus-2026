@@ -23,10 +23,10 @@ kbl(packing.list, format = "html") %>%
   pack_rows("DAY 4: Thursday, 22MAY - FINE-TEXTURED ST LOUIS SUBLOBE TILL SOILS OF NORTHEASTERN MN", 38, 47, background = "grey80") %>%
   pack_rows("DAY 5: Friday, 23MAY - SOILS OF THE GLACIAL LAKE UPHAM/AITKIN BASIN & RETURN TO ST PAUL", 48, 54, background = "grey80") %>%
   pack_rows("WEEK 2", 55, 96, label_row_css = "background-color: #666; color: #fff;") %>%
-  pack_rows("DAY 0: Monday, 26MAY - TRAVEL TO BEMIDJI STATE PARK", 55, 58, background = "grey80") %>%
-  pack_rows("DAY 1: Tuesday, 27MAY - SOILS OF THE FOREST-PRAIRIE TRANSITION", 59, 71, background = "grey80") %>%
-  pack_rows("DAY 2: Wednesday, 28MAY - SOILS AND LAND USE IN THE NORTH CENTRAL FORESTS", 72, 81, background = "grey80") %>%
-  pack_rows("DAY 3: Thursday, 29MAY - SOILS OF THE RED LAKE PEATLANDS", 82, 91, background = "grey80") %>%
-  pack_rows("DAY 4: Friday, 30MAY - RETURN TO ST PAUL", 92, 96, background = "grey80") 
+  pack_rows("DAY 0: Monday, 25MAY - TRAVEL TO BEMIDJI STATE PARK", 55, 58, background = "grey80") %>%
+  pack_rows("DAY 1: Tuesday, 26MAY - SOILS OF THE FOREST-PRAIRIE TRANSITION", 59, 71, background = "grey80") %>%
+  pack_rows("DAY 2: Wednesday, 27MAY - SOILS AND LAND USE IN THE NORTH CENTRAL FORESTS", 72, 81, background = "grey80") %>%
+  pack_rows("DAY 3: Thursday, 28MAY - SOILS OF THE RED LAKE PEATLANDS", 82, 91, background = "grey80") %>%
+  pack_rows("DAY 4: Friday, 29MAY - RETURN TO ST PAUL", 92, 96, background = "grey80") 
   #scroll_box(width = "100%", height = "1000px")
 ```

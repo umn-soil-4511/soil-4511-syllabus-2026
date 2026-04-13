@@ -6,9 +6,9 @@ project:
 book:
   title: "Field Study of Soils (SOIL 4511) Syllabus - May Session 2026"
   author: "Nic Jelinski"
-  date: "07APRMAY2026"
+  date: "13APR2026"
   cover-image: "soil-4511.png"
-  number: "1.0"
+  number: "2.0"
   #navbar: 
     #right: 
       #- icon: cc-circle
